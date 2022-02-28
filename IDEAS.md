@@ -14,3 +14,12 @@
 13. Stop timer
 14. Take photo of finish line
 15. Trigger custom event in Rust (maybe?) e.g. fireworks
+16. Show page with time, photos and leaderboard
+
+
+## Other ideas ##
+- Add support for multiple racers
+- Add podium photo shoot with events (fireworks)
+- Host photos for /sil in Rust (hall of fame)
+- Download results as PDF
+- Discord hooks
